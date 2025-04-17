@@ -8,6 +8,7 @@ dill==0.4.0
 filelock==3.18.0
 Flask==3.1.0
 fsspec==2025.3.2
+gunicorn==23.0.0
 huggingface-hub==0.30.2
 idna==3.10
 isort==6.0.1
